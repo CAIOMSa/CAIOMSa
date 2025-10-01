@@ -1,7 +1,7 @@
 <h3 align="center">👨‍💻 Studant Software Engineer</h3>
 
 <div align="center"> 
-       I’m currently a <strong>Software Engineering Student at FIAP</strong>, with a technical background in <strong>Big Data</strong> and <strong>IA</strong> 💻<br>
+       I’m currently a <strong>Software Engineering Student at FIAP</strong>  💻<br>
 </div>
 
 <div align="center">
