@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,django,java,html,css,bootstrap,tailwind,figma,js,react,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,c#,c++,html,css,bootstrap,tailwind,js,react,sqlserver" />
 </div>
 
 <hr/>
